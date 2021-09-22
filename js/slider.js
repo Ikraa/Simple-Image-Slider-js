@@ -21,5 +21,4 @@ setInterval(() => {
     imgId.setAttribute('src',imgUrl);
     console.log(imgUrl);
     imgIndex++;
-
 }, 1000);
